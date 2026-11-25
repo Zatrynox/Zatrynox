@@ -2,10 +2,6 @@
 
 <p align="center"><i>Estudiante de Ingeniería de Software · Buscando prácticas pre-profesionales</i></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/victor-jhosef-laura-acosta-06708a397/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mí
@@ -50,5 +46,5 @@ public:
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-jhosef-laura-acosta-06708a397/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"></a>
+  <a href="https://www.linkedin.com/in/victor-jhosef-laura-acosta-06708a397/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48"></a>
 </p>
