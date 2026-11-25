@@ -19,6 +19,7 @@ public:
 
     vector<string> proyectos() {
         return {"AgroShield (alertas agronómicas)",
+                "Entreprenly (app para bodegas)",
                 "Escapar del trabajo (obby de Roblox)"};
     }
 };
@@ -34,12 +35,15 @@ public:
 ### 🚀 Proyectos
 
 - **[AgroShield](https://github.com/AgroShield-App)**: plataforma de alertas agronómicas (en desarrollo).
+- **[Entreprenly](https://github.com/LernenLabs)**: app móvil de gestión para bodegas y minimarkets, con el equipo de Lernen Labs (en desarrollo).
 - **Escapar del trabajo**: obby de Roblox de 50 niveles, hecho con ayuda de IA (en desarrollo).
 - **[TF_2C_](https://github.com/Zatrynox/TF_2C_)**: trabajo final de segundo ciclo, en C++.
 
 ### 🎓 Certificaciones y logros
 
-- Google Cybersecurity Certificate
+- Google Cybersecurity Certificate (8 cursos)
+- Google Cloud: Introduction to Generative AI, Introduction to Large Language Models, Prompt Design in Agent Platform y Responsible AI
+- Google Cloud: Set Up an App Dev Environment y Cloud Load Balancing for Compute Engine
 - Especialización en Python, University of Michigan
 - Ganador de la Mini GameJam de CC126, UPC (2024)
 
